@@ -1,3 +1,6 @@
+## 1.0.1 (2024-02-15)
+- fix unit tests
+
 ## 0.99.43 (2023-10-17)
 - adjust NEWS to Bioc format
 
